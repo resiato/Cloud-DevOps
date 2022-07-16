@@ -1,1 +1,1 @@
-[(http://udagr-webap-17t56ki2fkyof-1892943018.us-east-1.elb.amazonaws.com/)]
+http://udagr-webap-17t56ki2fkyof-1892943018.us-east-1.elb.amazonaws.com/
