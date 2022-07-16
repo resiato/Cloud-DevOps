@@ -5,7 +5,7 @@ This infrastructure needs to be automated so that it can be discarded as soon as
 ## Deployment Instructions ##
 Run:
 ```
-  > ./create.sh UdagramApp udagram-infra_and_server.yml udagram-infra_and_server.yml
+  > ./create.sh UdagramApp udagram-infra_and_server.yml udagram-infra_and_server.json
 ```
 
 
